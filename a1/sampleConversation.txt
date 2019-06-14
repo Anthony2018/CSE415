@@ -1,0 +1,150 @@
+
+#####################################
+This is jinlin talk to Maggie
+#####################################
+
+
+0A: jinlin: Hi! I am jinlin xiang , I want to buy sometings. .
+ I was programmed by jinlin xiang. If you don't like
+the way I deal, contact her at jinlinx@uw.edu
+How can I help you?
+
+0B: Maggie: Hello, my name is Maggie, and I am the supermarket assistant.
+I was programmed by XINTONG XU. If you don't like
+the way I  deal, call her at xxt95@uw.edu.
+Can I help you?
+
+1A: jinlin: I love potato.
+
+1B: Maggie: What else do you want
+
+2A: jinlin: could you repeat your queation?
+
+2B: Maggie: Tell me more.
+
+3A: jinlin: I would like some tomato.
+
+3B: Maggie: Good choice!
+
+4A: jinlin: I want to buy broadbeans.
+
+4B: Maggie: do you want tomato?
+
+5A: jinlin: You earlier said Good choice. Would you like talk it right now?
+
+5B: Maggie: I see.
+
+6A: jinlin: Would you want to konw more about it?
+
+6B: Maggie: What does that indicate?
+
+7A: jinlin: I don't know the answer, please ask jinlinx@uw.edu for more information.
+
+7B: Maggie: But why be concerned about it?
+
+8A: jinlin: I want to buy broccoli.
+
+8B: Maggie: we do apply broadbeans!
+
+9A: jinlin: I like cabbage.
+
+9B: Maggie: we recommond  potato!
+
+10A: jinlin: I want to buy carrot.
+
+10B: Maggie: ginger on sale!
+
+11A: jinlin: I love cauliflower.
+
+11B: Maggie: cauliflower is good choice!
+
+12A: jinlin: I would like some cucumber.
+
+12B: Maggie: please buy some cucumber
+
+13A: jinlin: You are so nice.
+
+13B: Maggie: Please go on.
+
+14A: jinlin: You are so nice.
+
+14B: Maggie: Tell me more.
+
+15A: jinlin: I would like some garlic.
+
+15B: Maggie: we sold it out.
+
+#####################################
+This is  Maggie talk to jinlin
+#####################################
+
+
+0A: Maggie: Hello, my name is Maggie, and I am the supermarket assistant.
+I was programmed by XINTONG XU. If you don't like
+the way I  deal, call her at xxt95@uw.edu.
+Can I help you?
+
+0B: jinlin: Hi! I am jinlin xiang , I want to buy sometings. .
+ I was programmed by jinlin xiang. If you don't like
+the way I deal, contact her at jinlinx@uw.edu
+How can I help you?
+
+1A: Maggie: Tell me more.
+
+1B: jinlin: I want to buy potato.
+
+2A: Maggie: What else do you want
+
+2B: jinlin: could you repeat your queation?
+
+3A: Maggie: I see.
+
+3B: jinlin: Would you want to konw more about it?
+
+4A: Maggie: What does that indicate?
+
+4B: jinlin: I don't know the answer, please ask jinlinx@uw.edu for more information.
+
+5A: Maggie: But why be concerned about it?
+
+5B: jinlin: You earlier said You see. Would you like talk it right now?
+
+6A: Maggie: Please go on.
+
+6B: jinlin: You are so nice.
+
+7A: Maggie: Tell me more.
+
+7B: jinlin: I love tomato.
+
+8A: Maggie: Good choice!
+
+8B: jinlin: I want to buy broadbeans.
+
+9A: Maggie: do you want cucumber?
+
+9B: jinlin: I would like some broccoli.
+
+10A: Maggie: we do apply garlic!
+
+10B: jinlin: I want to buy cabbage.
+
+11A: Maggie: we recommond  potato!
+
+11B: jinlin: I like carrot.
+
+12A: Maggie: tomato on sale!
+
+12B: jinlin: I like cauliflower.
+
+13A: Maggie: roots is good choice!
+
+13B: jinlin: I like cucumber.
+
+14A: Maggie: please buy some tomato
+
+14B: jinlin: You are so nice.
+
+15A: Maggie: I see.
+
+15B: jinlin: Would you want to konw more about it?

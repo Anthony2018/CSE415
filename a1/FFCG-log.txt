@@ -1,0 +1,79 @@
+PS C:\Users\jinli\OneDrive - UW\19SP\CSE415\a2-starter-code\a2-starter-code> py Int_Solv_Client.py FarmerFox
+problem_name = FarmerFox
+Int_Solv_Client (Version 1)
+FarmerFox; 1.0
+
+Step 0, Depth 0
+CURRENT_STATE =
+ Left:[Farmer,Fox,Chicken,Grain]
+ Right: []
+2: move Farmer and Chicken to the other side of the rive
+Enter command: 0, 1, 2, etc. for operator; B-back; H-help; Q-quit. >> 2
+Operator 2 selected.
+
+Step 1, Depth 1
+CURRENT_STATE =
+ Left:[Fox,Grain]
+ Right: [Farmer,Chicken]
+0: move Farmer to the other side of the rive
+2: move Farmer and Chicken to the other side of the rive
+Enter command: 0, 1, 2, etc. for operator; B-back; H-help; Q-quit. >> 0
+Operator 0 selected.
+
+Step 2, Depth 2
+CURRENT_STATE =
+ Left:[Farmer,Fox,Grain]
+ Right: [Chicken]
+0: move Farmer to the other side of the rive
+1: move Farmer and Fox to the other side of the rive
+3: move Farmer and Grain to the other side of the rive
+Enter command: 0, 1, 2, etc. for operator; B-back; H-help; Q-quit. >> 3
+Operator 3 selected.
+
+Step 3, Depth 3
+CURRENT_STATE =
+ Left:[Fox]
+ Right: [Farmer,Chicken,Grain]
+2: move Farmer and Chicken to the other side of the rive
+3: move Farmer and Grain to the other side of the rive
+Enter command: 0, 1, 2, etc. for operator; B-back; H-help; Q-quit. >> 2
+Operator 2 selected.
+
+Step 4, Depth 4
+CURRENT_STATE =
+ Left:[Farmer,Fox,Chicken]
+ Right: [Grain]
+1: move Farmer and Fox to the other side of the rive
+2: move Farmer and Chicken to the other side of the rive
+Enter command: 0, 1, 2, etc. for operator; B-back; H-help; Q-quit. >> 1
+Operator 1 selected.
+
+Step 5, Depth 5
+CURRENT_STATE =
+ Left:[Chicken]
+ Right: [Farmer,Fox,Grain]
+0: move Farmer to the other side of the rive
+1: move Farmer and Fox to the other side of the rive
+3: move Farmer and Grain to the other side of the rive
+Enter command: 0, 1, 2, etc. for operator; B-back; H-help; Q-quit. >> 0
+Operator 0 selected.
+
+Step 6, Depth 6
+CURRENT_STATE =
+ Left:[Farmer,Chicken]
+ Right: [Fox,Grain]
+0: move Farmer to the other side of the rive
+2: move Farmer and Chicken to the other side of the rive
+Enter command: 0, 1, 2, etc. for operator; B-back; H-help; Q-quit. >> 2
+Operator 2 selected.
+
+Step 7, Depth 7
+CURRENT_STATE =
+ Left:[]
+ Right: [Farmer,Fox,Chicken,Grain]
+CONGRATULATIONS!
+You have solved the problem by reaching a goal state.
+Do you wish to continue exploring?
+
+Y or N? >> N
+The session is finished.
